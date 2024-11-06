@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\wwwroot\\js\\studentform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\wwwroot\\js\\studentform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\beans\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\beans\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\views\\home\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\views\\home\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\views\\home\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\views\\home\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\wwwroot\\js\\studentlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\wwwroot\\js\\studentlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|c:\\users\\durvesh.kumar\\project\\latestproject\\collage_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D1FBCDC-E4F9-4C90-B233-09CE02540E8D}|Collage_Management\\Collage_Management.csproj|solutionrelative:collage_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Beans\\Student.cs",
+              "RelativeDocumentMoniker": "Collage_Management\\Beans\\Student.cs",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Beans\\Student.cs",
+              "RelativeToolTip": "Collage_Management\\Beans\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:38:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Collage_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Collage_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:25:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentForm.js",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\wwwroot\\js\\StudentForm.js",
+              "RelativeDocumentMoniker": "Collage_Management\\wwwroot\\js\\StudentForm.js",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\wwwroot\\js\\StudentForm.js",
+              "RelativeToolTip": "Collage_Management\\wwwroot\\js\\StudentForm.js",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T10:39:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Home\\StudentForm.cshtml",
+              "RelativeDocumentMoniker": "Collage_Management\\Views\\Home\\StudentForm.cshtml",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Home\\StudentForm.cshtml",
+              "RelativeToolTip": "Collage_Management\\Views\\Home\\StudentForm.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:13:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "Collage_Management\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Services\\StudentServices.cs",
+              "RelativeToolTip": "Collage_Management\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:42:36.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Collage_Management\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Collage_Management\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:28:44.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentList.js",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\wwwroot\\js\\StudentList.js",
+              "RelativeDocumentMoniker": "Collage_Management\\wwwroot\\js\\StudentList.js",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\wwwroot\\js\\StudentList.js",
+              "RelativeToolTip": "Collage_Management\\wwwroot\\js\\StudentList.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T06:27:07.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Home\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "Collage_Management\\Views\\Home\\StudentList.cshtml",
+              "ToolTip": "C:\\Users\\durvesh.kumar\\Project\\LatestProject\\Collage_Management\\Views\\Home\\StudentList.cshtml",
+              "RelativeToolTip": "Collage_Management\\Views\\Home\\StudentList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T06:24:55.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
